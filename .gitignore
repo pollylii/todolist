@@ -11,6 +11,10 @@
 # production
 /build
 
+# 插件配置
+/package.json
+/yarn.lock
+
 # misc
 .DS_Store
 .env.local
