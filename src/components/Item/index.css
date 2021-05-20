@@ -19,7 +19,7 @@ li label li input {
 li button{
     float: right;
     display: none;
-    margin-top: 30px;
+    margin-top: 3px;
 }
 li:before{
     content: initial;
