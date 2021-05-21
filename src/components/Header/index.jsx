@@ -6,7 +6,7 @@ import './index.css'
 export default class Heraer extends Component {
 
     // 对接收的props进行类型、必要性的限制
-    static PropTypes = {
+    static propTypes = {
         addTodo:PropTypes.func.isRequired
     }
     // 键盘事件的回调
